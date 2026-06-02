@@ -47,7 +47,7 @@ def make_xlsx(formatted_liquids, formatted_clothes, formatted_toiletries):
 
 temperature = None
 
-st.title("Packing List Generator")
+st.title("PackIt")
 st.subheader("Welcome! Let's help you make a packing list for your stateside vacation!")
 st.divider()
 
