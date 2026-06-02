@@ -1,7 +1,7 @@
 # PackIt
 > A packing list generator that creates a downloadable spreadsheet with clothing, toiletries, and liquids based on temperature data and trip duration.
 
-![Live App Link](https://pack-it.streamlit.app/)
+[Live App Link](https://pack-it.streamlit.app/)
 
 ### Overview
 Everyone wants to go on vacation. But most don't look forward to packing their belongings without bringing too much or forgetting something. PackIt takes the stress out of trip preparation by providing a list of liquids, toiletries, and clothing the user should take based on their travel destination, trip duration, and month of travel. All data is pulled from a 2024 database of average monthly temperatures for each U.S. state. When generated, this packing list can be easily downloaded as a spreadsheet for those who like to print it and physically check things off. 
