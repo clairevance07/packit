@@ -6,10 +6,14 @@
 ### Overview
 Everyone wants to go on vacation. But most don't look forward to packing their belongings without bringing too much or forgetting something. PackIt takes the stress out of trip preparation by providing a list of liquids, toiletries, and clothing the user should take based on their travel destination, trip duration, and month of travel. All data is pulled from a 2024 database of average monthly temperatures for each U.S. state. When generated, this packing list can be easily downloaded as a spreadsheet for those who like to print it and physically check things off. 
 
+![Making Selections](selections.gif)
+
 ### Key Features
 - **Clean UI:** Hosted by Streamlit, PackIt has a very user-friendly design with dropdowns for each form item.
 - **Customization:** Even though PackIt handles most of the decision making, it still gives users the option to select the specific toiletries and liquids they will need for their trip.
+![Choosing Toiletries](toiletries.gif)
 - **Downloadable Packing List:** Upon generation of the packing list, the user can download an .xlsx document that is formatted to be printed off and make packing a breeze.
+![Dowloading](download.gif)
 
 ### Languages and Libraries
 - **Python:** Allowed me to strengthen my Python skills after taking an introductory programming course.
